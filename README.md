@@ -77,7 +77,7 @@ git clone https://github.com/hamdy-cufe-eng/PE-Installer.git
    <img width=60% src="Screenshots/image3.png" alt="logo">
    <hr>
    
-   <img width=60% src="Screenshots/Screenshot_4.png" alt="logo">
+   <img width=60% src="Screenshots/Screenshot_4.png" style="transform: rotate(90deg);" alt="logo">
    <hr>
 </div>
 
