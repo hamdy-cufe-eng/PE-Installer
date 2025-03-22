@@ -71,13 +71,13 @@ git clone https://github.com/hamdy-cufe-eng/PE-Installer.git
 <div name="Screenshots" align="center">
    <img width=60% src="Screenshots/image.png" alt="logo">
    <hr>
-    <img width=60% src="Screenshots/image1.png" alt="logo">
+    <img width=60% src="Screenshots/image2.png" alt="logo">
     <hr>
   
-   <img width=60% src="Screenshots/image2.png" alt="logo">
+   <img width=60% src="Screenshots/image3.png" alt="logo">
    <hr>
    
-   <img width=60% src="Screenshots/Screenshot_1.png" alt="logo">
+   <img width=60% src="Screenshots/Screenshot_4.png" alt="logo">
    <hr>
 </div>
 
