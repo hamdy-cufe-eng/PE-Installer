@@ -36,6 +36,7 @@
         <li><a href="#install">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#features">Features</a></li>
     <li><a href="#screenshots">Screenshots</a></li>
 	<li><a href="#contributors">Contributors</a></li>
   </ol>
@@ -64,6 +65,18 @@ git clone https://github.com/hamdy-cufe-eng/PE-Installer.git
 
 
 - Restore packages
+- 
+## 🎆 Features <a name = "features"></a>
+
+- Packer 
+- Multi-packing of a folder
+- Embeding the packed data into the release executable
+- Passing data to UI app through assembly 
+- Installing services
+- Full Installer
+- Adding startup icon / desktop shortcut
+- Steps Logging
+- Modern Flat-UI 
 
 
 ## 📷 Screenshots <a name = "screenshots" ></a>
